@@ -1,4 +1,5 @@
-# RockPaperScissors
+# RockPaperScissors   
+## Running   
 ![Preview-Screens](https://github.com/devWeslei/RockPaperScissors/blob/master/assets/exemplo.png)
 
 ## About this Project
